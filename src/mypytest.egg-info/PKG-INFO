@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: mypytest
+Version: 1.1
+Summary: Generic automation framework for acceptance testing and robotic process automation (RPA)
+Home-page: http://robotframework.org
+Author: Ruby Pham
+Author-email: rubyphamit@gmail.com
+License: Apache License 2.0
+Download-URL: https://pypi.python.org/pypi/robotframework
+Description: My pytest
+Keywords: robotframework automation testautomation rpa testing acceptancetesting atdd bdd
+Platform: any
